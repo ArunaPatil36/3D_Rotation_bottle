@@ -27,7 +27,7 @@ html,body{
 }
 .pack{
     position: absolute;
-    background: var(--bg) var(--left),url(images/mockup.png);
+    background: var(--bg) var(--left),url(mockup.png);
     background-size: auto 100%;
     width: 280px;
     aspect-ratio:1/2;
